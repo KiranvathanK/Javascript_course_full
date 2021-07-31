@@ -21,3 +21,4 @@
 
  displayDiscountPrice = Math.round(disCountPrice);
  console.log(displayDiscountPrice);
+ //some math oprators (objects) check for much more in websites documents
