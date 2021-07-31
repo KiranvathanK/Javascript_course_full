@@ -13,7 +13,7 @@ var isLoggedInFacebook ="false";
 console.log(`
     firstName : ${firstName}
     lastName : ${lastName}
-    emmail is : ${email}
+    em  ail is : ${email}
     country is : ${country}
     And state is : ${state}
     is logged by google : ${isLoggedInGoogle}
