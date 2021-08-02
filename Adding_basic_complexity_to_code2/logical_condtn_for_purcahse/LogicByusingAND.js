@@ -24,6 +24,8 @@ cardInfo = true;
 
 if (isLoggedIn && emailVarified && cardInfo){
     console.log("allow to purchase");
+}else{
+    console.log("do not allow to purchase");
 }
 
 //&& we used all condition must be a true if one is wrong entire block doesn't get excute
