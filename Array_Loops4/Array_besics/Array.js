@@ -23,7 +23,7 @@ console.log(user)//hear last value (true) delted if pop used fron end its get de
 //output is kiran k@gmail.com 24
 
 user.unshift("wow");
-console.log(user);//hear its add new value of given wow in the !st position because we gave unshift and array
+console.log(user);//hear its add new value of given wow in the 1st position because we gave unshift and array
 //postion too shifted one by one and 
 //output is wow kiran k@gmail.com 24 true
 
